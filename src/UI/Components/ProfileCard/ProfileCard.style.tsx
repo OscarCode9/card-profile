@@ -31,8 +31,8 @@ export const Card = styled(Box)`
 export const ProfileAvatar = styled(Box)`
   width: 64px;
   height: 64px;
-  background-color: #2563eb;
-  border-radius: 16px;
+  background-color: #004B80;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
