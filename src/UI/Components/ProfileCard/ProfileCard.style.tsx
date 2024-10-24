@@ -150,10 +150,10 @@ export const styles = {
   },
 
   closeButton: {
-    color: "grey.500",
     position: "absolute",
-    right: "-15px",
-    bottom: "15px",
+    color: "white",
+    bottom: "35px",
+    right: "-25px"
   },
 
   mainContentContainer: {
