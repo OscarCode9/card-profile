@@ -183,7 +183,7 @@ export const styles = {
     display: "grid",
     gridTemplateColumns: "repeat(2, 1fr)",
     gap: "16px 50px",
-    marginRight: "20%",
+    marginRight: "15%",
   },
 
   rightColumn: {
