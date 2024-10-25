@@ -11,6 +11,7 @@ export const CardWrapper = styled(Box)`
   justify-content: center;
   font-family: "Roboto", sans-serif;
   backdrop-filter: blur(15px);
+  background: rgb(30, 30, 75, 0.2); /* Blanco con 20% de opacidad */
 `;
 
 export const Card = styled(Box)`

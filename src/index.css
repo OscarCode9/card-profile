@@ -6,7 +6,7 @@ body {
   min-height: 100vh;
   justify-content: center;
   align-items: center;
-  background-image: url('./assets/back1.png');
+  background-image: url('./assets/test.png');
   background-size: cover; /* La imagen cubrirá todo el fondo */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
   background-position: center; /* Centra la imagen en la pantalla */
