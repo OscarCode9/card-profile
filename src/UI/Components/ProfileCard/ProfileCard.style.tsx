@@ -31,7 +31,7 @@ export const Card = styled(Box)`
 export const ProfileAvatar = styled(Box)`
   width: 64px;
   height: 64px;
-  background-color: #004B80;
+  background-color: #004b80;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -153,7 +153,7 @@ export const styles = {
     position: "absolute",
     color: "white",
     bottom: "35px",
-    right: "-25px"
+    right: "-25px",
   },
 
   mainContentContainer: {
@@ -183,6 +183,7 @@ export const styles = {
     display: "grid",
     gridTemplateColumns: "repeat(2, 1fr)",
     gap: "16px 50px",
+    marginRight: "20%",
   },
 
   rightColumn: {

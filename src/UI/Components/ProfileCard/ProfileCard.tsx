@@ -56,7 +56,6 @@ const ProfileCard = () => {
               </Typography>
             </Box>
 
-            <Box>
               <Box sx={styles.detailsGrid}>
                 {[
                   { label: "Name", value: profile.name },
@@ -72,7 +71,6 @@ const ProfileCard = () => {
                   </DetailItem>
                 ))}
               </Box>
-            </Box>
 
             <Box sx={styles.rightColumn}>
               <div style={styles.editButtonsContainer}>
